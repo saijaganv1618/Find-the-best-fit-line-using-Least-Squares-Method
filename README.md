@@ -75,8 +75,9 @@ print(y_predicted1)
 ```
 
 ## Output:
-![output](ML1.png)
-![output](ML2.png)
+![1](M1.png)
+
+
 
 
 ## Result:
